@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(0, 0, 0);
+}
+
+.explicacion p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.explicacion {
+    padding-top: 40px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.cuerpo {
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 20%;
+}
